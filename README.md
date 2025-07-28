@@ -1,11 +1,11 @@
 # The Perfect Guess Game
 
-A simple Python game where the user tries to guess a randomly chosen number between 1 and 100. After each guess, the program gives a hint "Higher" or "Lower" until the correct number is found. It then displays the number of possible attempts taken.
+A simple Python game where the user tries to guess a randomly chosen number between 1 and 100. After each guess, the program gives a hint "Higher" or "Lower" until the correct number is found. It then displays the number of possible attempts taken. It uses loops, conditions, and the random module.
 
 # How It Works
-- The program uses Python's `random` module to select a number.
+- The program uses Python's 'random' module to select a number.
 - The player keeps guessing until the correct number is guessed.
-- Feedback is given after every attempt.
+- Feedback is given after every attempt helping the player.
 - Total number of guesses is shown at the end.
 
 # How to Run
